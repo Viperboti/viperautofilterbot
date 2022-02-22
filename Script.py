@@ -2,7 +2,8 @@ class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙈𝙔 𝙉𝘼𝙈𝙀 𝙄𝙎 <a href=https://t.me/{}>{}</a>, 𝗜 𝗰𝗮𝗻 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝘆𝗼𝘂 𝗺𝗼𝘃𝗶𝗲𝘀, 
 𝘾𝙡𝙞𝙘𝙠 𝙤𝙣 𝙨𝙚𝙖𝙧𝙘𝙝 🔍  𝙖𝙣𝙙 𝙛𝙞𝙣𝙙 𝙖𝙣𝙮 𝙢𝙤𝙫𝙞𝙚, 
-𝘼𝙡𝙨𝙤 𝙔𝙤𝙪 𝘾𝙖𝙣 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 𝘼𝙣𝙙 𝙈𝙖𝙠𝙚 𝙈𝙚 𝘼𝙙𝙢𝙞𝙣 𝙄'𝙒𝙞𝙡𝙡 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙤𝙫𝙞𝙚𝙨 𝙏𝙝𝙚𝙧𝙚 😇"""
+𝘼𝙡𝙨𝙤 𝙔𝙤𝙪 𝘾𝙖𝙣 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 𝘼𝙣𝙙 𝙈𝙖𝙠𝙚 𝙈𝙚 𝘼𝙙𝙢𝙞𝙣 𝙄'𝙒𝙞𝙡𝙡 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙤𝙫𝙞𝙚𝙨 𝙏𝙝𝙚𝙧𝙚 😇
+<a href=https://t.me/+MdrMdUMf3CU4N2Rl>YOTUBE CHANNEL</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -13,16 +14,16 @@ class script(object):
 ⚡ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ⚡ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b> 
-- Source - @Professor9116  
+- Source - @Roxy_sharma  
 
 <b>DEVS:</b>
-- <a href=https://t.me/asb_backup>CLICK HERE</a>"""
+- <a href=https://t.me/+MdrMdUMf3CU4N2Rl>CLICK HERE</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ⚡️A҉S҉B҉⚡️ should have admin privillage.
+1. 🔥BMA🔥 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -33,15 +34,15 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ⚡️A҉S҉B҉⚡️ Supports both url and alert inline buttons.
+- 🔥BMA🔥 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ⚡️A҉S҉B҉⚡️ supports buttons with any telegram media type.
+2. 🔥BMA🔥 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Professor9116)</code>
+<code>[Button Text](buttonurl:https://t.me/Roxy_sharma)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -68,7 +69,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ⚡️A҉S҉B҉⚡️
+these are the extra features of 🔥BMA🔥
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
